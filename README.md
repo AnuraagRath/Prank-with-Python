@@ -2,11 +2,13 @@
 Prank people by sending them these Python programs.
 
 * RickRoll
+
 When the first Program is initiated, Multiple Broweser windows will open one after the other, which plays 'Never Gonna Give you up' and you will be in a Rickroll Loop forever, unless you terminate the program
 
 ![Rickroll](/images/rickroll.png)
 
 * Random Mousemovement (Haunted Computer)
+
 When the second program is initiated, a Small window will appear notifying that Some Updates have been done.
 
 ![update](/images/random1.png)
