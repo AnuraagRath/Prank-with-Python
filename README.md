@@ -1,7 +1,7 @@
 # Prank-with-Python
 Prank people by sending them these Python programs.
 
-* RickRoll
+* RickRolling
 
 When the first Program is initiated, Multiple Broweser windows will open one after the other, which plays 'Never Gonna Give you up' and you will be in a Rickroll Loop forever, unless you terminate the program
 
