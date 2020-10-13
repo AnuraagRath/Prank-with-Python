@@ -3,7 +3,7 @@ Prank people by sending them these Python programs.
 
 * RickRolling
 
-When the first Program is initiated, Multiple Broweser windows will open one after the other, which plays 'Never Gonna Give you up' and you will be in a Rickroll Loop forever, unless you terminate the program
+When the first Program is initiated, Multiple Browser windows will open one after the other, which plays 'Never Gonna Give you up' and you will be in a Rickroll Loop forever, unless you terminate the program
 
 ![Rickroll](/images/rickroll.png)
 
